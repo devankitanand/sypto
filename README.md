@@ -20,7 +20,6 @@ Sypto is a movie discovery app built with Flutter that uses the [OMDb API](https
 
 ## 📸 Screenshots
 
-> _Add screenshots here for better visual understanding of your app._
 
 | Home Screen                     | Search Results                   | Movie Details                  |
 |--------------------------------|----------------------------------|-------------------------------|
