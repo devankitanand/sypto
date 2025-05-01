@@ -15,7 +15,6 @@ Sypto is a movie discovery app built with Flutter that uses the [OMDb API](https
 - 📱 **Responsive UI** – Fully responsive layout for mobile and tablet devices.
 - 📜 **Infinite Scroll / Pagination** – Automatically fetch more results as the user scrolls.
 - 🖼️ **Movie Posters** – High-quality poster display from OMDb.
-- 🌙 **Dark Mode Support** – Adapts to your device's theme.
 
 ---
 
